@@ -2,7 +2,6 @@ import { ProxyState } from "../AppState.js";
 import { valuesService } from "../Services/ValuesService.js";
 import { Pop } from "../Utils/Pop.js";
 
-
 //Private
 function _draw() {
   let values = ProxyState.values;
